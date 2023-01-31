@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8fe9b833e9742734fad432f699a59be1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Creta_TRIAL
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1ed9ca103d96b74797c45d1509cefdd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
